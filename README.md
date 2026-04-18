@@ -43,13 +43,15 @@
 
 ---
 
-### 🏆 Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=baniadamtampubolon&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
+<div align="center">
+  <h2>🐍 Contribution Graph 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### 📫 Contact Me
 

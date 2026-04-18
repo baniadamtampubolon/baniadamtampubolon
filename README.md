@@ -1,44 +1,68 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hey there, I'm Bani! 👋</h1>
 
-### :smiley_cat: I am a student at Sumatera Institute of Technology
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=435&lines=ML+Student+%40+Bangkit+Academy;Python+%26+TensorFlow+Enthusiast;Building+things%2C+one+commit+at+a+time;Open+to+collabs+%E2%80%94+ping+me!" alt="Typing SVG" />
+</p>
 
-### so, curently this is my first try making my readme, hope you like it 😄
-### and, you can call me bani or adam
+---
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+### 🙋 About Me
+- 🎓 Student at **Sumatera Institute of Technology**
+- 🌱 Studying Machine Learning at **Bangkit Academy** (Python · TensorFlow · scikit-learn)
+- 👤 You can call me **Bani** or **Adam**
+- 📍 Based in Sumatra, Indonesia
+- 🤝 Open to collaborations and open source projects
 
-## By the way here are some of my statistics 🚀
-![my github stats](https://github-readme-stats.vercel.app/api?username=baniadamtampubolon&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![my Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baniadamtampubolon&theme=tokyonight&layout=compact)
+---
 
-🌱 I’m currently learning machine learning at bangkit academy with python tensorflow etc
+### 🛠️ Tech Stack
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-baniadam.tampubolon@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:baniadam.tampubolon@gmail.com)](baniadam.tampubolon@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-adam.tampubolon-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/adam.tampubolon/)](https://www.instagram.com/adam.tampubolon/)
+---
 
+### 📊 GitHub Stats
 
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"Rakehade"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baniadamtampubolon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baniadamtampubolon&theme=tokyonight&layout=compact&hide_border=true" height="165"/>
+</p>
 
-------
-Credit: [baniiiiiiiii](https://github.com/baniadamtampubolon)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baniadamtampubolon&theme=tokyonight&hide_border=true" />
+</p>
 
-Last Edited on: 21/08/2024
-<!--
-**AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=baniadamtampubolon&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baniadamtampubolon/baniadamtampubolon/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/baniadamtampubolon/baniadamtampubolon/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/baniadamtampubolon/baniadamtampubolon/output/github-snake.svg" />
+</picture>
+
+---
+
+### 📫 Contact Me
+
+[![Gmail](https://img.shields.io/badge/-baniadam.tampubolon@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:baniadam.tampubolon@gmail.com)
+[![Instagram](https://img.shields.io/badge/-adam.tampubolon-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/adam.tampubolon/)
+[![GitHub](https://img.shields.io/badge/-baniadamtampubolon-181717?style=flat&logo=github)](https://github.com/baniadamtampubolon)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=baniadamtampubolon&label=Profile+Views&color=7f77dd&style=flat" alt="profile views" />
+</p>
+
+<p align="center">Made with ❤️ by Bani • <a href="https://youtu.be/frszEJb0aOo?t=4">"Rakehade"</a></p>

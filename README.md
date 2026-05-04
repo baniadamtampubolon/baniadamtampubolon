@@ -31,11 +31,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=baniadamtampubolon&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baniadamtampubolon&theme=tokyonight&layout=compact&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baniadamtampubolon&theme=tokyonight&hide_border=true" />
